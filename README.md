@@ -28,7 +28,7 @@ It includes features such as age, sex, passenger class, fare, family size, and s
 
 ## Dashboard Preview
 
-![Titanic Dashboard](titanic_dashboard.png)
+![Titanic Dashboard](titanic_dashboard(1).png)
 
 ---
 
